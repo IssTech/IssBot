@@ -1,0 +1,32 @@
+{
+  "name": "issbot",
+  "version": "0.0.1",
+  "description": "IssBot is a chatbot plugin between IssAssist, Dialogflow and user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IssTech/IssBot.git"
+  },
+  "keywords": [
+    "github",
+    "chatbot",
+    "issassist",
+    "issbot",
+    "dialogflow",
+    "slack",
+    "teams"
+  ],
+  "author": "Christian Petersson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IssTech/IssBot/issues"
+  },
+  "homepage": "https://github.com/IssTech/IssBot#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0"
+  }
+}
